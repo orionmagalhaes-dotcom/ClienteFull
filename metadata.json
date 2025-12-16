@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Cliente Stable",
+  "description": "Uma aplicação completa para gestão de assinaturas de doramas, lista de favoritos e assistente virtual inteligente.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
